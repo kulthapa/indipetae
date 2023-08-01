@@ -37,7 +37,7 @@ use BCLib\Indipetae\ThemeHelpers;
     <div class="hidden-xs">
         <div class="row">
             <div class="top-menu">
-                <span class="upper"><a href="https://www.jesuitportal.bc.edu/" target="new" class="iajs">The Portal to Jesuit Studies</a></span>
+                <span class="upper"><a href="https://jesuitportal.bc.edu/" target="new" class="iajs">The Portal to Jesuit Studies</a></span>
             </div>
         </div>
         <a href="https://indipetae.bc.edu">
@@ -45,7 +45,7 @@ use BCLib\Indipetae\ThemeHelpers;
                 <div class="header-brand center-col">
                     <div class="row">
                         <div class="col-sm-1">
-                            <img alt="Institute for Advanced Jesuit Studies" src="https://www.jesuitportal.bc.edu/wp-content/themes/bciajs/imgs/bciajs_logo_transparent.png" class="logo">
+                            <img alt="Institute for Advanced Jesuit Studies" src="https://jesuitportal.bc.edu/wp-content/themes/bciajs/imgs/bciajs_logo_transparent.png" class="logo">
                         </div>
                         <div class="pull-right col-sm-10">
                             <h1 class="upper header-title">Digital Indipetae Database</h1>
